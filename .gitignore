@@ -33,3 +33,9 @@ ehthumbs.db
 Thumbs.db
 *.sln
 *.sln
+/Splines/UserSettings
+/Splines/.vs
+/Splines/Library
+/Splines/Logs
+/Splines/obj
+/Splines/.vsconfig
